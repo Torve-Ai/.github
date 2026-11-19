@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Torve AI. One API. More possibilities.">
+<defs><radialGradient id="glow"><stop stop-color="#8758E8" stop-opacity=".24"/><stop offset="1" stop-color="#090B12" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="320" rx="24" fill="#090B12"/>
+<ellipse cx="1050" cy="115" rx="420" ry="300" fill="url(#glow)"/>
+<rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#252A38"/>
+<rect x="54" y="50" width="38" height="5" rx="2.5" fill="#C0F52A"/>
+<text x="54" y="113" fill="#A6ADBD" font-family="Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="3">TORVE AI</text>
+<text x="50" y="184" fill="#F5F6FA" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-1.6">One API. More possibilities.</text>
+<text x="54" y="233" fill="#A6ADBD" font-family="Segoe UI,Arial,sans-serif" font-size="21">Connect AI models to the tools you already use.</text>
+<g transform="translate(1020 60)" fill="none" stroke="#A477FF" stroke-width="1.5" opacity=".6"><rect width="90" height="90" rx="22"/><rect x="-24" y="24" width="90" height="90" rx="22"/><path d="M-24 69H66M21 24v90"/></g>
+<text x="54" y="284" fill="#C0F52A" font-family="Segoe UI,Arial,sans-serif" font-size="15">torveai.com</text>
+</svg>
